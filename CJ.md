@@ -38,6 +38,7 @@
 # [4k farming divisions](https://docs.google.com/spreadsheets/d/13pG5QS_wGg8p8F3NvCgsa1-sjZxZhnRy4ffk0QyVrf0/edit#gid=0)
 # [XingRen Random Selection](https://mega.nz/file/2MUiDB5K#w0PQJsU2_oKZma9Q7C9yKA7jcY_gUnaedlTRrgCQyxw)
 # [HDtoSD](https://github.com/Jose134/HDtoSD)
+# [osu!mania Converts/Packs Collection & Conversion Tools](https://osu.ppy.sh/community/forums/topics/399593?n=1)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
