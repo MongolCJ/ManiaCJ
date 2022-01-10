@@ -20,7 +20,7 @@
 
 ## ChordJack Selection
 
-# This file is about chordjack maps, maps from mania that i liked and enjoy. 
+# This file is about chordjack maps, maps from mania that i liked and enjoy and also tools and other crap that i save around.
 
 # ★★★★ TOOLS and other crap ★★★★
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
