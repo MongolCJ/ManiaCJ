@@ -2,8 +2,9 @@
 # ManiaCJ
 
 
-
-![enter image description here](https://www.famousbirthdays.com/headshots/nick-polom-2.jpg)
+![enter image description here](https://cdn.discordapp.com/attachments/693061253131796523/930115500497842196/unknown.png)
+## 
+![enter image description here](https://cdn.discordapp.com/attachments/693061253131796523/930116228469649418/unknown.png)
 
 
 
