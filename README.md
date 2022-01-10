@@ -145,3 +145,8 @@
 # [suckawa's Epsilon Chordjack practice paq](https://osu.ppy.sh/beatmapsets/1362856#mania/2819600)
 # [Impossible Jack 3](https://osu.ppy.sh/beatmapsets/1538016#mania/3144615)
 # []()
+
+
+
+
+![enter image description here](https://external-preview.redd.it/hG1S5cG8iSF6BfsO8mQ2igubTjrc6dVWJvl5RgYtPhU.jpg?auto=webp&s=9e3ef755019cb5b8adb0436a465d57bd46f0a8ba)
