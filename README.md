@@ -23,6 +23,16 @@
 # This file is about chordjack maps, maps from mania that i liked and enjoy. 
 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
+# [Jack cup](https://docs.google.com/spreadsheets/d/1ljCkNz2ICP9Qf8sFjV2tq4U4SYZ_ozJbBDiGnB4WN_I/edit#gid=910059315)
+# [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
+# [malody2osu by jakads](https://github.com/jakads/malody2osu)
+# [quaver to osu](https://github.com/IceDynamix/qua3osu)
+## Remember to export charts in proper format in quaver editor.
+# [OMISM Osu!mania to Stepmania](https://osu.ppy.sh/community/forums/topics/664319?n=1)
+# [Osu collector by FunOrange](https://osucollector.com/)
+# [Jack Dan Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1y4Wmd8ffOIUE_6byfUXBwfjIzydsJnqB7L8qDjUlX-Q/htmlview#)
+# [Dan Calculator](https://docs.google.com/spreadsheets/d/1N2UxpxgIyxtqG5M3xRBrybXouh_XHHVugAy56Jytge4/edit#gid=2068588552)
+## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
 # [naetsuka's Chordjack Selections vol.1](https://osu.ppy.sh/beatmapsets/1604863)
