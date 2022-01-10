@@ -44,6 +44,7 @@
 # [Malody 4k Dans](https://www.dropbox.com/sh/u4gr0skl3vwjhe3/AADtTD0PYFutCsVgYUTU6KMga?dl=0)
 # [7k Converts BMS o2Jam](https://osu.ppy.sh/users/13440190)
 # [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
+# [BMS grind](https://docs.google.com/document/d/1MUeP757QEbdLJKOd2BfnUyWdGvpbcYZ6j67RnFzEGj0/edit?usp=drivesdk)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
