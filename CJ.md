@@ -45,6 +45,8 @@
 # [7k Converts BMS o2Jam](https://osu.ppy.sh/users/13440190)
 # [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
 # [BMS grind](https://docs.google.com/document/d/1MUeP757QEbdLJKOd2BfnUyWdGvpbcYZ6j67RnFzEGj0/edit?usp=drivesdk)
+# [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
+# [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
