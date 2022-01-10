@@ -39,6 +39,7 @@
 # [XingRen Random Selection](https://mega.nz/file/2MUiDB5K#w0PQJsU2_oKZma9Q7C9yKA7jcY_gUnaedlTRrgCQyxw)
 # [HDtoSD](https://github.com/Jose134/HDtoSD)
 # [osu!mania Converts/Packs Collection & Conversion Tools](https://osu.ppy.sh/community/forums/topics/399593?n=1)
+# [★★TACHYON'S ETTERNA TO OSU!MANIA CONVERSIONS★★](https://osu.ppy.sh/community/forums/topics/684032?n=1) 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -89,9 +90,7 @@
 # [Advanced Chordjacks Pack](https://osu.ppy.sh/beatmapsets/1578040#mania/3256831)
 # [CBF Wristle Chordjack](https://osu.ppy.sh/beatmapsets/1033885#mania/2167960)
 # [Joker Maps 1](https://drive.google.com/file/d/1PMiU7W8KjTf5TM20263Vntikfkh88HR0/view)
-# [Joker Maps 2](https://drive.google.com/file/d/1KQvaYIN1XwYJt-L30Gn2F3YWyXdz2MGY/view)
-# [TACHYON'S ETTERNA TO OSU!MANIA CONVERSIONS](https://osu.ppy.sh/community/forums/topics/684032?n=1)  ***ETTERNA TO OSU PACKS***
-
+# [Joker Maps 2](https://drive.google.com/file/d/1KQvaYIN1XwYJt-L30Gn2F3YWyXdz2MGY/view) 
 # [Cosmic Supernova Pack](https://osu.ppy.sh/beatmapsets/1490589#mania/3055463)
 # [Danitskin's chordjack pack](https://osu.ppy.sh/beatmapsets/1429729#mania/3217951)
 # [**DOUNBTF ~Dan~ Chordjack Pack**](https://osu.ppy.sh/beatmapsets/1394812#mania/2879055)
