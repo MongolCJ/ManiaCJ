@@ -41,6 +41,9 @@
 # [osu!mania Converts/Packs Collection & Conversion Tools](https://osu.ppy.sh/community/forums/topics/399593?n=1)
 # [★★TACHYON'S ETTERNA TO OSU!MANIA CONVERSIONS★★](https://osu.ppy.sh/community/forums/topics/684032?n=1) 
 # [Naetsuka Dan v1](https://mega.nz/file/RXgW0I5J#VvBc8JBs0hkp3340JGnU4Jqxt6ClLTHTxJFZEgs-50I)
+# [Malody 4k Dans](https://www.dropbox.com/sh/u4gr0skl3vwjhe3/AADtTD0PYFutCsVgYUTU6KMga?dl=0)
+# [7k Converts BMS o2Jam](https://osu.ppy.sh/users/13440190)
+# [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
