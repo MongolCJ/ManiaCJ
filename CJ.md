@@ -40,6 +40,7 @@
 # [HDtoSD](https://github.com/Jose134/HDtoSD)
 # [osu!mania Converts/Packs Collection & Conversion Tools](https://osu.ppy.sh/community/forums/topics/399593?n=1)
 # [★★TACHYON'S ETTERNA TO OSU!MANIA CONVERSIONS★★](https://osu.ppy.sh/community/forums/topics/684032?n=1) 
+# [Naetsuka Dan v1](https://mega.nz/file/RXgW0I5J#VvBc8JBs0hkp3340JGnU4Jqxt6ClLTHTxJFZEgs-50I)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
