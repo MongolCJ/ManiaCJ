@@ -22,31 +22,36 @@
 
 # This file is about chordjack maps, maps from mania that i liked and enjoy and also tools and other crap that i save around.
 
-# ★★★★ TOOLS and other crap ★★★★
+# ★★★★ TOOLS ★★★★
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
-# [Jack cup](https://docs.google.com/spreadsheets/d/1ljCkNz2ICP9Qf8sFjV2tq4U4SYZ_ozJbBDiGnB4WN_I/edit#gid=910059315)
+
 # [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
 # [malody2osu by jakads](https://github.com/jakads/malody2osu)
 # [quaver to osu](https://github.com/IceDynamix/qua3osu) Remember to export charts in proper format in quaver editor.
 # [OMISM Osu!mania to Stepmania](https://osu.ppy.sh/community/forums/topics/664319?n=1)
 # [Osu collector by FunOrange](https://osucollector.com/)
-# [Jack Dan Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1y4Wmd8ffOIUE_6byfUXBwfjIzydsJnqB7L8qDjUlX-Q/htmlview#)
 # [Dan Calculator](https://docs.google.com/spreadsheets/d/1N2UxpxgIyxtqG5M3xRBrybXouh_XHHVugAy56Jytge4/edit#gid=2068588552)
+# [HDtoSD](https://github.com/Jose134/HDtoSD) 
+# [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
+# [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
+# [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
+## /////////////////////////////////////////////////////////////////////////////////////////////////////
+## /////////////////////////////////////////////////////////////////////////////////////////////////////
+# ★★★★ Dans and Maps ★★★★
+# [Jack cup](https://docs.google.com/spreadsheets/d/1ljCkNz2ICP9Qf8sFjV2tq4U4SYZ_ozJbBDiGnB4WN_I/edit#gid=910059315)
+# [Jack Dan Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1y4Wmd8ffOIUE_6byfUXBwfjIzydsJnqB7L8qDjUlX-Q/htmlview#)
 # [Underjoy LN dan Maps](https://drive.google.com/file/d/1UvLuRNN1UuoD0fKOLbWhq3BEcCEi6YlR/view)
 # [speed tech convert pack by paprotka](https://drive.google.com/file/d/1CCix80KepNOjHyVckC2WZXvS14tbQF4a/view)
 # [4k farming divisions](https://docs.google.com/spreadsheets/d/13pG5QS_wGg8p8F3NvCgsa1-sjZxZhnRy4ffk0QyVrf0/edit#gid=0)
 # [XingRen Random Selection](https://mega.nz/file/2MUiDB5K#w0PQJsU2_oKZma9Q7C9yKA7jcY_gUnaedlTRrgCQyxw)
-# [HDtoSD](https://github.com/Jose134/HDtoSD)
 # [osu!mania Converts/Packs Collection & Conversion Tools](https://osu.ppy.sh/community/forums/topics/399593?n=1)
 # [★★TACHYON'S ETTERNA TO OSU!MANIA CONVERSIONS★★](https://osu.ppy.sh/community/forums/topics/684032?n=1) 
 # [Naetsuka Dan v1](https://mega.nz/file/RXgW0I5J#VvBc8JBs0hkp3340JGnU4Jqxt6ClLTHTxJFZEgs-50I)
 # [Malody 4k Dans](https://www.dropbox.com/sh/u4gr0skl3vwjhe3/AADtTD0PYFutCsVgYUTU6KMga?dl=0)
 # [7k Converts BMS o2Jam](https://osu.ppy.sh/users/13440190)
-# [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
 # [BMS grind](https://docs.google.com/document/d/1MUeP757QEbdLJKOd2BfnUyWdGvpbcYZ6j67RnFzEGj0/edit?usp=drivesdk)
-# [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
-# [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
+
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
