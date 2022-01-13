@@ -26,16 +26,16 @@
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-# [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
-# [malody2osu by jakads](https://github.com/jakads/malody2osu)
-# [quaver to osu](https://github.com/IceDynamix/qua3osu) Remember to export charts in proper format in quaver editor.
-# [OMISM Osu!mania to Stepmania](https://osu.ppy.sh/community/forums/topics/664319?n=1)
-# [Osu collector by FunOrange](https://osucollector.com/)
-# [Dan Calculator](https://docs.google.com/spreadsheets/d/1N2UxpxgIyxtqG5M3xRBrybXouh_XHHVugAy56Jytge4/edit#gid=2068588552)
-# [HDtoSD](https://github.com/Jose134/HDtoSD) 
-# [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
-# [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
-# [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
+## [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
+## [malody2osu by jakads](https://github.com/jakads/malody2osu)
+## [quaver to osu](https://github.com/IceDynamix/qua3osu) Remember to export charts in proper format in quaver editor.
+## [OMISM Osu!mania to Stepmania](https://osu.ppy.sh/community/forums/topics/664319?n=1)
+## [Osu collector by FunOrange](https://osucollector.com/)
+## [Dan Calculator](https://docs.google.com/spreadsheets/d/1N2UxpxgIyxtqG5M3xRBrybXouh_XHHVugAy56Jytge4/edit#gid=2068588552)
+## [HDtoSD](https://github.com/Jose134/HDtoSD) 
+## [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
+## [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
+## [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 # ★★★★ Mappers ★★★★
