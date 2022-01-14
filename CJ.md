@@ -192,6 +192,7 @@
 ## [suckawa's Epsilon Chordjack practice paq](https://osu.ppy.sh/beatmapsets/1362856#mania/2819600)
 ## [Impossible Jack 3](https://osu.ppy.sh/beatmapsets/1538016#mania/3144615)
 
+![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931504011469795370/jsbanner.png)
 ## ★★★★ Js/hs/speed/tech PACKS ★★★★
 
 ## [gzdongsheng's Speed Pack](https://osu.ppy.sh/beatmapsets/1174430#mania/2449645)
