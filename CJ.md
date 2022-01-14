@@ -36,7 +36,7 @@
 ## [Mania pp maps searcher](https://osu-pps.com/#/mania/maps)
 ## [Osu to etterna old ver](https://github.com/notchxu/osu-to-etterna) 
 ## [Osu to etterna new ver](https://drive.google.com/drive/folders/1j2PAyqC--0NVtFWgHtqNDMmlOkyuYmON?usp=sharing)
-## [bmx2osu - Bms to osu](https://github.com/sxturndev/bmx2osu) 
+## [bmx2osu - BMS to osu](https://github.com/sxturndev/bmx2osu) 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 # ★★★★ Mappers ★★★★
