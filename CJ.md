@@ -49,6 +49,7 @@
 ## [Jack Dan Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1y4Wmd8ffOIUE_6byfUXBwfjIzydsJnqB7L8qDjUlX-Q/htmlview#)
 ## [Underjoy LN dan Maps](https://drive.google.com/file/d/1UvLuRNN1UuoD0fKOLbWhq3BEcCEi6YlR/view)
 ## [Stream Dans Project](https://osu.ppy.sh/beatmapsets/1190960#mania/2481397)
+## [Dan Stamina](https://osu.ppy.sh/beatmapsets/1089360#mania/2277575)
 ## [speed tech convert pack by paprotka](https://drive.google.com/file/d/1CCix80KepNOjHyVckC2WZXvS14tbQF4a/view)
 ## [4k farming divisions](https://docs.google.com/spreadsheets/d/13pG5QS_wGg8p8F3NvCgsa1-sjZxZhnRy4ffk0QyVrf0/edit#gid=0)
 ## [XingRen Random Selection](https://mega.nz/file/2MUiDB5K#w0PQJsU2_oKZma9Q7C9yKA7jcY_gUnaedlTRrgCQyxw)
