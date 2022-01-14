@@ -63,8 +63,10 @@
 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
+![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931506634675593236/unknown.png)
 # !!!!★★★★ Chordjack Maps ★★★★!!!!
 ## [osu!Collector Chordjack maps](https://osucollector.com/collections/2606)
+![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931506680389320724/unknown.png)
 # !!!!★★★★ Js/hs/speed Maps ★★★★!!!!
 ## [osu!Collector Js/hs/speed maps](https://osucollector.com/collections/2607)
 
