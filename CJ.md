@@ -78,6 +78,13 @@
 ![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931502678670983208/unknown.png)
 ## ★★★★ CHORDJACK PACKS ★★★★
 
+## [arpia97's lucrative longjack bundle](https://osu.ppy.sh/beatmapsets/1681993#mania/3436447)
+
+
+
+
+
+
 ## [naetsuka's Chordjack Selections vol.1](https://osu.ppy.sh/beatmapsets/1604863)
 
 ## [naetsuka's Chordjack Selections vol.2](https://osu.ppy.sh/beatmapsets/1671149#mania/3413349)
