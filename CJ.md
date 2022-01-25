@@ -367,7 +367,7 @@
 ## [Etterna Convert Pack 2](https://osu.ppy.sh/beatmapsets/1144954#mania/2390478)
 ## [Etterna Convert Pack 3](https://osu.ppy.sh/beatmapsets/1220834#mania/2539563)
 
-
+![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/935519076732768296/maxresdefault_11.jpg)
 ## ★★★★  LN  ★★★★
 
 ## [6GB ln pack by Sudden Death](https://drive.google.com/u/0/uc?id=1MzFFVIeXoD8iyWPQpVMayHNIR7LPwpLj&export=download)
