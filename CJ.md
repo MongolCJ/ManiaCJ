@@ -368,10 +368,29 @@
 ## [Etterna Convert Pack 3](https://osu.ppy.sh/beatmapsets/1220834#mania/2539563)
 
 
+## ★★★★  LN  ★★★★
 
-
-
-
+## [6GB ln pack by Sudden Death](https://drive.google.com/u/0/uc?id=1MzFFVIeXoD8iyWPQpVMayHNIR7LPwpLj&export=download)
+## [Serenade's True Appendicitis](https://www.dropbox.com/s/arnfv6thyfjsjbz/Serenade%27s%20True%20Appendicitis.rar?dl=1)
+## [Serenade's True Appendicitis 2](https://www.dropbox.com/s/mmqdxpnkaxws4hi/Serenade%27s%20True%20Appendicitis%202.rar?dl=1)
+## [Serenade's True Appendicitis 3](https://drive.google.com/file/d/1Ezko3W1j3ZAeenjzqq6GhjZc5RRGtZsi/view)
+## [Serenade's True Appendicitis 4](https://drive.google.com/file/d/1nfnhQy5lT-VBCK1r6yBh0JBnwSb-iJuz/view)
+## [Akagiri's LN edited Pack 3](https://mega.nz/file/T0NGjQyL#O9WC4qoJIJc-1c-kL9QhcY_wGiuuIm6ANQrc9iEJMUs)
+## [Akagiri's LN edited Pack 2](https://mega.nz/file/vxE10ITa#HpZCsJve9_dSeKDcztyPYVoyiIlLonDmqkAmn3W9dCo)
+## [Akagiri's LN edited Pack](https://mega.nz/file/G5FnVASC#jxgWPDg1UBnOIHCWeP0NszMzp_NSoWyH1C-Iw5AwUK0)
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
+## []()
 
 
 
