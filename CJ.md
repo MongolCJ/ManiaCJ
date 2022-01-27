@@ -210,6 +210,7 @@
 ![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931504011469795370/jsbanner.png)
 ## ★★★★ Js/hs/speed/tech PACKS ★★★★
 
+## [Michibata's speed collection 1](https://osu.ppy.sh/beatmapsets/1684446#mania/3441728)
 ## [gzdongsheng's Speed Pack](https://osu.ppy.sh/beatmapsets/1174430#mania/2449645)
 ## [LedianORe's 4k pack vol.3 ](https://osu.ppy.sh/beatmapsets/1325931#mania/2754823)
 ## [Generic 4k Jumpstream with rates](https://osu.ppy.sh/beatmapsets/903657#mania/1886470)
