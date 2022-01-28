@@ -60,6 +60,8 @@
 ## [Malody 4k Dans](https://www.dropbox.com/sh/u4gr0skl3vwjhe3/AADtTD0PYFutCsVgYUTU6KMga?dl=0)
 ## [7k Converts BMS o2Jam](https://osu.ppy.sh/users/13440190)
 ## [BMS grind](https://docs.google.com/document/d/1MUeP757QEbdLJKOd2BfnUyWdGvpbcYZ6j67RnFzEGj0/edit?usp=drivesdk)
+## [7k practice pack 1](https://drive.google.com/file/d/1CFqh1f6GZFDXSbUWkU0jL20TUcbI65Nz/view)
+## [7k practice pack 2](https://drive.google.com/file/d/1Gn0Ekshe-nuYaDyYjaIORVY8gb369IGz/view)
 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -78,6 +80,10 @@
 ![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931502678670983208/unknown.png)
 ## ★★★★ CHORDJACK PACKS ★★★★
 
+
+
+## [Gaesol's Jack Practice pack](https://osu.ppy.sh/beatmapsets/1684778#mania/3442343)
+## [Gaesol1 130 Jack Collection](https://osu.ppy.sh/beatmapsets/1532901#mania/3134912)
 ## [arpia97's lucrative longjack bundle](https://osu.ppy.sh/beatmapsets/1681993#mania/3436447)
 
 
@@ -379,7 +385,7 @@
 ## [Akagiri's LN edited Pack 3](https://mega.nz/file/T0NGjQyL#O9WC4qoJIJc-1c-kL9QhcY_wGiuuIm6ANQrc9iEJMUs)
 ## [Akagiri's LN edited Pack 2](https://mega.nz/file/vxE10ITa#HpZCsJve9_dSeKDcztyPYVoyiIlLonDmqkAmn3W9dCo)
 ## [Akagiri's LN edited Pack](https://mega.nz/file/G5FnVASC#jxgWPDg1UBnOIHCWeP0NszMzp_NSoWyH1C-Iw5AwUK0)
-## []()
+## [ezmmr LN pack](https://drive.google.com/file/d/10lZq2JPtNL3xOvQ-v2Td6dVnKpYa4qEH/view)
 ## []()
 ## []()
 ## []()
