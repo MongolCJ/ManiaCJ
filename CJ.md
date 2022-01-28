@@ -386,7 +386,7 @@
 ## [Akagiri's LN edited Pack 2](https://mega.nz/file/vxE10ITa#HpZCsJve9_dSeKDcztyPYVoyiIlLonDmqkAmn3W9dCo)
 ## [Akagiri's LN edited Pack](https://mega.nz/file/G5FnVASC#jxgWPDg1UBnOIHCWeP0NszMzp_NSoWyH1C-Iw5AwUK0)
 ## [ezmmr LN pack](https://drive.google.com/file/d/10lZq2JPtNL3xOvQ-v2Td6dVnKpYa4qEH/view)
-## []()
+## [gaesol's LN extreme pack #1](https://osu.ppy.sh/beatmapsets/1521433#mania/3114072)
 ## []()
 ## []()
 ## []()
