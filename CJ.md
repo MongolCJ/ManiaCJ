@@ -45,6 +45,9 @@
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 # ★★★★ Dans and Maps ★★★★
+## [xfpsb 4K LN Advanced Dan Course I](https://osu.ppy.sh/beatmapsets/1688705#mania/3451026)
+## [xfpsb 4K LN Advanced Dan Course II](https://osu.ppy.sh/beatmapsets/1688718#mania/3451052)
+## [xfpsb 4K LN Advanced Dan Course III](https://osu.ppy.sh/beatmapsets/1688720#mania/3451057)
 ## [Jack cup](https://docs.google.com/spreadsheets/d/1ljCkNz2ICP9Qf8sFjV2tq4U4SYZ_ozJbBDiGnB4WN_I/edit#gid=910059315)
 ## [Jack Dan Spreadsheet](https://docs.google.com/spreadsheets/u/0/d/1y4Wmd8ffOIUE_6byfUXBwfjIzydsJnqB7L8qDjUlX-Q/htmlview#)
 ## [Underjoy LN dan Maps](https://drive.google.com/file/d/1UvLuRNN1UuoD0fKOLbWhq3BEcCEi6YlR/view)
