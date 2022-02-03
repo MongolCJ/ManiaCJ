@@ -65,6 +65,8 @@
 ## [BMS grind](https://docs.google.com/document/d/1MUeP757QEbdLJKOd2BfnUyWdGvpbcYZ6j67RnFzEGj0/edit?usp=drivesdk)
 ## [7k practice pack 1](https://drive.google.com/file/d/1CFqh1f6GZFDXSbUWkU0jL20TUcbI65Nz/view)
 ## [7k practice pack 2](https://drive.google.com/file/d/1Gn0Ekshe-nuYaDyYjaIORVY8gb369IGz/view)
+## [howardong pack](https://drive.google.com/file/d/1PghdFT0bqd6oPFj9ONub_79k81uOwr2A/view)
+
 
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
