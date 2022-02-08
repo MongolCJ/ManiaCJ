@@ -86,7 +86,7 @@
 ## ★★★★ CHORDJACK PACKS ★★★★
 
 
-
+## [Hard Chordjack Practice Pack Vol.6](https://osu.ppy.sh/beatmapsets/1690739#mania/3455096)
 ## [Gaesol's Jack Practice pack](https://osu.ppy.sh/beatmapsets/1684778#mania/3442343)
 ## [Gaesol1 130 Jack Collection](https://osu.ppy.sh/beatmapsets/1532901#mania/3134912)
 ## [arpia97's lucrative longjack bundle](https://osu.ppy.sh/beatmapsets/1681993#mania/3436447)
