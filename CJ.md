@@ -26,6 +26,8 @@
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
+
+## [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 ## [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
 ## [malody2osu by jakads](https://github.com/jakads/malody2osu)
 ## [quaver to osu](https://github.com/IceDynamix/qua3osu) Remember to export charts in proper format in quaver editor.
