@@ -26,7 +26,7 @@
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 ## /////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
+## [Fringe Remover](https://osu.ppy.sh/community/forums/topics/1244643?n=1)
 ## [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 ## [raindrop Mania/BMS/and planty of converts](https://github.com/zardoru/raindrop/releases/tag/0.600)
 ## [malody2osu by jakads](https://github.com/jakads/malody2osu)
