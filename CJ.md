@@ -87,6 +87,10 @@
 ![enter image description here](https://cdn.discordapp.com/attachments/931502661222670336/931502678670983208/unknown.png)
 ## ★★★★ CHORDJACK PACKS ★★★★
 
+## [Ezze's Chordjack Training Pack (100 - 110)](https://osu.ppy.sh/beatmapsets/1695843#mania/3464981)
+## [Ezze's Chordjack Training Pack (110 - 120)](https://osu.ppy.sh/beatmapsets/1692374#mania/3458150)
+## [Ezze's Chordjack Training Pack (120 - 130)](https://osu.ppy.sh/beatmapsets/1691558#mania/3456543)
+
 
 ## [Hard Chordjack Practice Pack Vol.6](https://osu.ppy.sh/beatmapsets/1690739#mania/3455096)
 ## [Gaesol's Jack Practice pack](https://osu.ppy.sh/beatmapsets/1684778#mania/3442343)
